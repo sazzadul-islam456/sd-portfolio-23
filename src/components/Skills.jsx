@@ -53,10 +53,10 @@ const Skills = () => {
       stroke: "#fafcff",
     },
     trail: {
-      stroke: "#524050",
+      stroke: "#111112",
     },
     text: {
-      fill: "#12c4b2",
+      fill: "#2c68a3",
       fontSize: "24px",
     },
   };
@@ -68,7 +68,7 @@ const Skills = () => {
         <div className="flex flex-col xl:flex-row
          justify-between items-center gap-y-6">
           {/* circular item 1*/}
-          <div className="bg-[#0a192f] w-[150px] lg:w-[275px]
+          <div className="bg-[#0a192f] w-[150px] lg:w-[250px]
            felx flex-col items-center  gap-y-6">
             <CircularProgressbar
               strokeWidth={1}
@@ -82,7 +82,7 @@ const Skills = () => {
           </div>
 
            {/* circular item 2*/}
-           <div className="bg-[#0a192f] w-[150px] lg:w-[275px]
+           <div className="bg-[#0a192f] w-[150px] lg:w-[250px]
            felx flex-col items-center  gap-y-6">
             <CircularProgressbar
               strokeWidth={1}
@@ -96,7 +96,7 @@ const Skills = () => {
           </div>
 
            {/* circular item 3*/}
-           <div className="bg-[#0a192f] w-[150px] lg:w-[275px]
+           <div className="bg-[#0a192f] w-[150px] lg:w-[250px]
            felx flex-col items-center  gap-y-6">
             <CircularProgressbar
               strokeWidth={1}
@@ -110,7 +110,7 @@ const Skills = () => {
           </div>
 
            {/* circular item 4*/}
-           <div className="bg-[#0a192f] w-[150px] lg:w-[275px]
+           <div className="bg-[#0a192f] w-[150px] lg:w-[250px]
            felx flex-col items-center  gap-y-6">
             <CircularProgressbar
               strokeWidth={1}
